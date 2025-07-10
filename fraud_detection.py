@@ -1,3 +1,5 @@
+#we will be import all the libraries required for the project
+#I have added comments on each steps for better understanding how it is working step by step
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
